@@ -63,5 +63,3 @@ inline bool isLeapYear(int yy)
 void printMonthName(int);
 int lastDayOfMonth(int, int);
 void welcomePage(void);
-
-// TODO: Reference additional headers your program requires here.
