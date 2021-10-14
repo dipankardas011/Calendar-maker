@@ -245,6 +245,7 @@ void CustomCalendar(int year)
 			weeks++;
 		}
 	}
+	f.close();
 }
 
 void Calendar::displayMonth(void)
